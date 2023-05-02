@@ -118,6 +118,10 @@ menu:
       name: Festessen
       url: /festessen/
       weight: 20
+    - identifier: geschaeftsordnung
+      name: Geschäftsordnung
+      url: /geschaeftsordnung.pdf
+      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
