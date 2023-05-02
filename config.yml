@@ -2,6 +2,7 @@ baseURL: "https://brokkoli-freunde.de/"
 paginate: 5
 theme: PaperMod
 title: Brokkoli-Freunde
+publishdir: build
 
 enableRobotsTXT: true
 buildDrafts: false
