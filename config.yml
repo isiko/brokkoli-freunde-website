@@ -24,7 +24,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["https://upload.wikimedia.org/wikipedia/commons/f/f3/Broccoli_in_a_dish_2.jpg"]
   DateFormat: "January 2, 2006"
-  defaultTheme: dark # dark, light
+  defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
