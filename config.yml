@@ -18,7 +18,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Brokkoli-Freunde
-  description: "Eine Gruppe von Brokkoli-Genießern"
+  description: "Die Freunde des Brokkoli \U0001F966"
   keywords: [ "brokkoli" ]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Brokkoli-Freunde"
-    subtitle: "\U0001F966"
+    subtitle: "Die Freunde des Brokkoli \U0001F966"
     imageUrl: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Broccoli_in_a_dish_2.jpg"
     imageWidth: 120
     imageHeight: 120
