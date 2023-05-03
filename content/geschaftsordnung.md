@@ -6,11 +6,8 @@ draft: false
 tags: ["Förmliches"]
 showtoc: false
 tocopen: true
+hideSummary: true
 ---
-
-> Eine PDF Version kann unter [https://brokkoli-freunde.de/geschaeftsordnung.pdf](/geschaeftsordnung.pdf) eingesehen werden.
-<!--more-->
-
 ## § 1 Geltungsbereich
 Diese Geschäftsordnung gilt für die Mitgliederversammlung (im folgenden Festessen) der
 Brokkoli Freunde e.F., soweit die Satzung des Brokkoli Freunde e.F. nicht eine andere
