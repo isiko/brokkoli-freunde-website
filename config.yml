@@ -19,7 +19,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Brokkoli-Freunde
   description: "Die Freunde des Brokkoli \U0001F966"
-  keywords: [ "förmliches" ]
+  keywords: [ "Förmliches" ]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["https://upload.wikimedia.org/wikipedia/commons/f/f3/Broccoli_in_a_dish_2.jpg"]

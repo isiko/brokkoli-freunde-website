@@ -3,7 +3,7 @@ title: "Geschäftsordnung"
 summary: "asdf"
 date: 2023-05-03T10:15:07+02:00
 draft: false
-tags: ["förmliches"]
+tags: ["Förmliches"]
 showtoc: false
 tocopen: true
 ---
