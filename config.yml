@@ -77,12 +77,12 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+    # - name: twitter
+    #   url: "https://twitter.com/"
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com"
+    # - name: github
+    #   url: "https://github.com/"
 
   analytics:
     # google:
@@ -114,14 +114,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: fest-essen
+    - identifier: menu-1
       name: Festessen
       url: /festessen/
+      weight: 10
+    - identifier: menu-2
+      name: Förmliches
+      url: /formliches/
       weight: 20
-    - identifier: geschaeftsordnung
-      name: Geschäftsordnung
-      url: /geschaftsordnung
-      weight: 20
+    - identifier: menu-3
+      name: Discord
+      url: https://discord.gg/3QU393YSPB
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
