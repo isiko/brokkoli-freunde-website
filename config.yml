@@ -9,7 +9,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -19,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Brokkoli-Freunde
   description: "Die Freunde des Brokkoli \U0001F966"
-  keywords: [ "Förmliches" ]
+  keywords: [ "Förmliches", "Festessen"]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["https://upload.wikimedia.org/wikipedia/commons/f/f3/Broccoli_in_a_dish_2.jpg"]
@@ -98,7 +97,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/isiko404/brokkoli-freunde-website"
+    URL: "https://github.com/isiko/brokkoli-freunde-website/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -116,11 +115,11 @@ menu:
   main:
     - identifier: menu-1
       name: Festessen
-      url: /festessen/
+      url: /festessen
       weight: 10
     - identifier: menu-2
       name: Förmliches
-      url: /tags/förmliches
+      url: /docs
       weight: 20
     - identifier: menu-3
       name: Discord
