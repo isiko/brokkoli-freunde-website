@@ -50,7 +50,7 @@ Brokkoli oder eines Brokkoli-Äquivalents während des Festessens notwendig. Ein
 Äquivalent muss mit Zwei-Drittel-Mehrheit als solches akzeptiert werden. Das Vorhandensein
 einschließlich der Akzeptanz darf zu einem beliebigen Zeitpunkt des Festessens erfolgen und
 somit auch das bisherige Festessen legitimieren. Ausgeschlossen von dieser Äquivalenz-
-Akzeptanz sind Objekte nach Anlage I-III zu ##1 Absatz 1 des BtMG. Konsum dieser führt zu
+Akzeptanz sind Objekte nach Anlage I-III zu § 1 Absatz 1 des BtMG. Konsum dieser führt zu
 sofortigem Verlust des Stimmrechts. Ausgenommen von letzterer Regelung sind medizinisch notwendige Einnahmen.
 
 ## § 10 Öffentlichkeit
@@ -68,13 +68,13 @@ Festessen mitbringen.
 ## § 12 Rollen
 Alle Mitglieder des Vereins sind gleichermaßen berechtigt an Festessen teilzunehmen.
 
-### § 12.1 Berater*innen
-Berater*innen sind ehemalige Vereinsmitglieder. Diese sind auf unbefristete Zeit Gäste ohne
+### § 12.1 Berater\*innen
+Berater\*innen sind ehemalige Vereinsmitglieder. Diese sind auf unbefristete Zeit Gäste ohne
 Stimmrecht
 
 ## § 13 Diskussionen
 Das Wort kann durch die Moderation im Rahmen einer Redeliste erteilt werden.
-Antragsteller*innen können außerhalb der Reihenfolge das Wort verlangen. Die Redezeit
+Antragsteller\*innen können außerhalb der Reihenfolge das Wort verlangen. Die Redezeit
 kann von der Moderation begrenzt werden. Dies kann durch Mehrheitsbeschluss aufgehoben
 werden. Die Moderation kann Redenden, die nicht zur Sache sprechen, das Wort entziehen.
 
@@ -89,12 +89,11 @@ der anwesenden stimmberechtigten Mitglieder.
 Abgestimmt wird mit Ja, Nein und Enthaltung. Jedes anwesende Vereinsmitglied muss genau eine Stimme abgeben. Die Abstimmung erfolgt mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Gibt es mehr Enthaltungen als Ja- oder Nein-Stimmen ist das Abstimmungsergebnis ungültig. Stimmengleichheit der Ja- und Nein-Stimmen bei einem gültigen Abstimmungsergebnis gilt als Ablehnung. Abstimmungen über Änderungen der Satzung und der Geschäftsordnung bedürfen einer Zwei-Drittel-Mehrheit der abgegebenen gültigen Stimmen. Auf Antrag muss geheim abgestimmt werden.
 
 ## § 16 Wahlen
-Wahlen werden grundsätzlich in geheimer Abstimmung durchgeführt. Der Wahl voraus geht eine Vorstellung der zur Wahl stehenden Personen. In jeder Wahl gibt jedes anwesende Vereinsmitglied genau eine eindeutig zuordenbare Stimme für eine*n zur Wahl stehenden Kandidat*in ab. Gewählt ist, wer die meisten der abgegebenen gültigen Stimmen auf sich vereinigt. Eine Stichwahl erfolgt bei gleicher Anzahl von gültigen Stimmen für mehrere beste Kandidat*innen. Eine Wahl ist ungültig wenn die Anzahl der abgegebenen gültigen Stimmen weniger als die Hälfte der anwesenden Stimmberechtigten beträgt oder die gewählte Person die Wahl ablehnt. Vorschlagsrecht haben alle Mitglieder.
-
+Wahlen werden grundsätzlich in geheimer Abstimmung durchgeführt. Der Wahl voraus geht eine Vorstellung der zur Wahl stehenden Personen. In jeder Wahl gibt jedes anwesende Vereinsmitglied genau eine eindeutig zuordenbare Stimme für eine\*n zur Wahl stehenden Kandidat\*in ab. Gewählt ist, wer die meisten der abgegebenen gültigen Stimmen auf sich vereinigt. Eine Stichwahl erfolgt bei gleicher Anzahl von gültigen Stimmen für mehrere beste Kandidat\*innen. Eine Wahl ist ungültig wenn die Anzahl der abgegebenen gültigen Stimmen weniger als die Hälfte der anwesenden Stimmberechtigten beträgt oder die gewählte Person die Wahl ablehnt. Vorschlagsrecht haben alle Mitglieder.
 
 ## § 17 Aufnahme
-Eine Abstimmung zur Aufnahme neuer Vereinsmitglieder ist immer geheim. Ein*e
-Kandidat*in ist Mitglied, wenn mindestens zwei Drittel der abgegebenen gültigen Stimmen
+Eine Abstimmung zur Aufnahme neuer Vereinsmitglieder ist immer geheim. Ein\*e
+Kandidat\*in ist Mitglied, wenn mindestens zwei Drittel der abgegebenen gültigen Stimmen
 Ja-Stimmen sind. Enthaltungen werden nicht gezählt. Gibt es mehr Enthaltungen als Ja- oder Nein-Stimmen ist das Abstimmungsergebnis ungültig.
 
 ## § 18 Protokoll
