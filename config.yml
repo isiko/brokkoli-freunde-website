@@ -76,12 +76,10 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    # - name: twitter
-    #   url: "https://twitter.com/"
-    # - name: stackoverflow
-    #   url: "https://stackoverflow.com"
-    # - name: github
-    #   url: "https://github.com/"
+    - name: email
+      url: "mailto:info@brokkoli-freunde.de"
+    - name: discord
+      url: "https://discord.gg/3QU393YSPB"
 
   analytics:
     # google:
@@ -122,9 +120,9 @@ menu:
       url: /docs
       weight: 20
     - identifier: menu-3
-      name: Discord
-      url: https://discord.gg/3QU393YSPB
-      weight: 30
+      name: Kontakt
+      url: /contact
+      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
