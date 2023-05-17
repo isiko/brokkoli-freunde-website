@@ -61,9 +61,9 @@ params:
     enabled: true # needs to be explicitly set
     title: "Brokkoli-Freunde"
     subtitle: "Die Freunde des Brokkoli \U0001F966"
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Broccoli_in_a_dish_2.jpg"
-    imageWidth: 120
-    imageHeight: 120
+    imageUrl: "/header.png"
+    imageWidth: 200
+    imageHeight: 200
     imageTitle: "\U0001F966"
     buttons:
       # - name: 
