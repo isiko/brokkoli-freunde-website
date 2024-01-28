@@ -1,5 +1,5 @@
 ---
-title: "(Vorläufige) Geschäftsordnung"
+title: "Vorläufige Geschäftsordnung"
 date: 2023-05-02T10:15:07+02:00
 draft: false
 tags: ["Förmliches"]
